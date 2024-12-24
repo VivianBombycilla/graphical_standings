@@ -1,0 +1,14 @@
+filter_by <- NA
+filter_key <- NA
+label_shared_offset_x <- 0.6
+label_adjust_x_mult <- 0.5
+label_adjust_y_mult <- 0.8
+label_logo_size <- 0.07
+segment_base_linewidth <- 2.5
+segment_target_height <- 0.45
+dot_size <- 2.7
+tag_position <- 0.94
+tag_position <- 0
+text_scale <- 3.5
+max_X <- 28
+max_Y <- 19
